@@ -1,0 +1,14 @@
+07/12/2021 11:12:57 devpinoyLogger Config file loaded !!!
+07/12/2021 11:12:57 devpinoyLogger OR file loaded !!!
+07/12/2021 11:13:02 devpinoyLogger Navigated to : http://www.zoho.com/
+07/12/2021 11:13:08 devpinoyLogger Clicking on an Element : loginlink_XPATH
+07/12/2021 11:13:09 devpinoyLogger Clicking on an Element : fb_XPATH
+07/12/2021 11:13:10 devpinoyLogger Clicking on an Element : accept_XPATH
+07/12/2021 11:13:10 devpinoyLogger Typing in an Element : email_ID entered value as : ewelinaszymaniak@gmail.com
+07/12/2021 11:13:10 devpinoyLogger Typing in an Element : password_ID entered value as : Pi=3.1415
+07/12/2021 11:13:10 devpinoyLogger Clicking on an Element : save_ID
+07/12/2021 11:13:16 devpinoyLogger Clicking on an Element : backToApp_ID
+07/12/2021 11:13:27 devpinoyLogger Clicking on an Element : crmlink_XPATH
+07/12/2021 11:13:27 devpinoyLogger Clicking on an Element : accountstab_XPATH
+07/12/2021 11:13:27 devpinoyLogger Clicking on an Element : createaccount_XPATH
+07/12/2021 11:13:28 devpinoyLogger Typing in an Element : accountname_CSS entered value as : Roman
